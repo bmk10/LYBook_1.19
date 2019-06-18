@@ -140,3 +140,7 @@
 dev/Tools/LmbrSetup/win.vc141/
 dev/CloudGemDefectReportSample/Gem/Resources/GameSDK.ico
 filehashes.json
+dev/Editor/editorlayout.xml
+dev/UserSettings.xml
+dev/SessionStatus/editor_statuses.json
+dev/Editor/editoreventlog.xml
